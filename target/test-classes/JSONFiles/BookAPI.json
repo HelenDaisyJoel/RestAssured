@@ -1,0 +1,27 @@
+{
+	"store": {
+		"book": [
+			{
+		"title": "Java",
+		"schema": "John Doe",
+		"price":12.24,
+		"categories":["c","c++"]
+			},
+			{
+		"title": "Python",
+		"schema": "Paul",
+		"price":30.90,
+		"categories":["java","c++"]
+			}
+
+		],
+
+		"bicycle":{
+			"type":"Mountain",
+			"price":32.80
+
+		}
+	}
+}
+		
+	

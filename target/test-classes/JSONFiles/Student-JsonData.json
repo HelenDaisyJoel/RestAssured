@@ -1,0 +1,174 @@
+{
+  "Student": [
+    {
+      "name": "John",
+      "id": "100",
+      "location": "Chennai",
+      "phone_number": 1234567890,
+      "Courses": [
+        "Java",
+        "Selenium"
+      ]
+    },
+    {
+      "name": "Kim",
+      "id": "101",
+      "location": "Pune",
+      "phone_number": 1234567891,
+      "Courses": [
+        "Java",
+        "Appium"
+      ]
+    },
+    {
+      "name": "Ravi",
+      "id": "102",
+      "location": "Kovai",
+      "phone_number": 1234567892,
+      "Courses": [
+        "Java",
+        "Rest API"
+      ]
+    },
+    {
+      "name": "Arun",
+      "id": "103",
+      "location": "Madurai",
+      "phone_number": 8904567890,
+      "Courses": [
+        "c",
+        "c++"
+      ]
+    },
+    {
+      "id": "103",
+      "name": "John1",
+      "location": "Chennai1",
+      "phone_number": 1234567890,
+      "Courses": [
+        "Java",
+        "Selenium"
+      ]
+    },
+    {
+      "id": "103",
+      "name": "John1",
+      "location": "Chennai1",
+      "phone_number": 1234567890,
+      "Courses": [
+        "Java",
+        "Selenium"
+      ]
+    },
+    {
+      "id": "103",
+      "name": "John1",
+      "location": "Chennai1",
+      "phone_number": 1234567890,
+      "Courses": [
+        "Java",
+        "Selenium"
+      ]
+    },
+    {
+      "id": "103",
+      "name": "John1",
+      "location": "Chennai1",
+      "phone_number": 1234567890,
+      "Courses": [
+        "Java",
+        "Selenium"
+      ]
+    },
+    {
+      "id": "103",
+      "name": "John1",
+      "location": "Chennai1",
+      "phone_number": 1234567890,
+      "Courses": [
+        "Java",
+        "Selenium"
+      ]
+    },
+    {
+      "id": "103",
+      "name": "John1",
+      "location": "Chennai1",
+      "phone_number": 1234567890,
+      "Courses": [
+        "Java",
+        "Selenium"
+      ]
+    },
+    {
+      "id": "103",
+      "name": "John1",
+      "location": "Chennai1",
+      "phone_number": 1234567890,
+      "Courses": [
+        "Java",
+        "Selenium"
+      ]
+    },
+    {
+      "id": "103",
+      "name": "John1",
+      "location": "Chennai1",
+      "phone_number": 1234567890,
+      "Courses": [
+        "Java",
+        "Selenium"
+      ]
+    },
+    {
+      "id": "103",
+      "name": "Joel",
+      "location": "Pune",
+      "phone_number": 1234567890,
+      "Courses": [
+        "Java",
+        "Selenium"
+      ]
+    },
+    {
+      "id": "103",
+      "name": "Joel",
+      "location": "Pune",
+      "phone_number": 1234567890,
+      "Courses": [
+        "Java",
+        "Selenium"
+      ]
+    },
+    {
+      "id": "104",
+      "name": "Joel",
+      "location": "Pune",
+      "phone_number": 1234567890,
+      "Courses": [
+        "Java",
+        "Selenium"
+      ]
+    },
+    {
+      "id": "105",
+      "name": "Joel",
+      "location": "Pune",
+      "phone_number": 1234567890,
+      "Courses": [
+        "Java",
+        "Selenium"
+      ]
+    },
+    {
+      "id": "105",
+      "name": "Joel",
+      "location": "Pune",
+      "phone_number": 1234567890,
+      "Courses": [
+        "Java",
+        "Selenium"
+      ]
+    }
+  ]
+}
